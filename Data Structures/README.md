@@ -1,5 +1,4 @@
 <h1>Data Structures </h1>
-/***
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Set</b></th>
@@ -19,8 +18,13 @@
     <td class="tg-yw4l">Ordered</td>
     <td class="tg-yw4l">Ordered</td>
   </tr>
+    <tr>
+    <td class="tg-yw4l">{1 2 3}</td>
+    <td class="tg-yw4l">[2 3 4]</td>
+    <td class="tg-yw4l">{1,2,3}</td>
+    <td class="tg-yw4l">[0,0,1]</td>
+  </tr>
 </table>
-***/
 
 <h1> Examples </h1>
 List: Recipe's, Tutorials / Instructions
