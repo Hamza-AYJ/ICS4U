@@ -27,7 +27,7 @@
 </table>
 
 <h1> Examples </h1>
-List: Recipe's, Tutorials / Instructions <br> 
-O-Sets: <br>
-M-Sets: <br>
-Sets: <br>
+List: Recipe's, Tutorials <br> 
+O-Sets: Instructions (Drill) <br>
+M-Sets: Keyboard / Set of keys<br>
+Sets: Feet (Left & Right)<br>
