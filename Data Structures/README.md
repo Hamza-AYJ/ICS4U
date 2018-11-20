@@ -1,4 +1,10 @@
 <h1>Data Structures </h1>
+
+<h3><strong>L</strong>ists</h3>
+<h3><strongO</strong>-Sets</h3>
+<h3><strong>M</strong>-Sets</h3>
+<h3><strong>S</strong>ets</h3>
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Set</b></th>
