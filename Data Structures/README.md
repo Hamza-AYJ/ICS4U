@@ -1,9 +1,19 @@
 <h1>Data Structures </h1>
 
-<strong>L</strong>ists<br>
-<strong>O</strong>Sets<br>
-<strong>M</strong>Sets<br>
-<strong>S</strong>ets
+<strong>L</strong> ists<br>
+<strong>O</strong> Sets<br>
+<strong>M</strong> Sets<br>
+<strong>S</strong> ets
+
+<h2>Ordered List
+<ul>
+  <li>Has comma's 
+</ul> 
+
+<h2>Unordered List
+<ul>
+  <li>Has spaces instead of comma's
+</ul>  
 
 <table class="tg">
   <tr>
