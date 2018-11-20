@@ -1,9 +1,9 @@
 <h1>Data Structures </h1>
 
-<h3>Lists</h3>
-<h3>O-Sets</h3>
-<h3>M-Sets</h3>
-<h3>Sets</h3>
+<strong>L</strong>ists<br>
+<strong>O</strong>Sets<br>
+<strong>M</strong>Sets<br>
+<strong>S</strong>ets
 
 <table class="tg">
   <tr>
