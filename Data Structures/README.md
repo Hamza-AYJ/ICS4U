@@ -9,11 +9,13 @@
 <ul>
   <li>Has comma's 
 </ul> 
+ </h2> 
 
 <h2>Unordered List
 <ul>
   <li>Has spaces instead of comma's
-</ul>  
+</ul> 
+  </h2>
 
 <table class="tg">
   <tr>
