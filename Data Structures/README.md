@@ -16,7 +16,7 @@
   <li>Has spaces instead of comma's
 </ul> 
 
-
+<h2>Characteristics of LOMS</h2>
 <table class="tg">
   <tr>
     <th class="tg-yw4l"><b>Set</b></th>
