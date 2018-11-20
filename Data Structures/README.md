@@ -5,17 +5,17 @@
 <strong>M</strong> Sets<br>
 <strong>S</strong> ets
 
-<h2>Ordered List
+<h2>Ordered List </h2> 
 <ul>
   <li>Has comma's 
 </ul> 
- </h2> 
 
-<h2>Unordered List
+
+<h2>Unordered List  </h2>
 <ul>
   <li>Has spaces instead of comma's
 </ul> 
-  </h2>
+
 
 <table class="tg">
   <tr>
